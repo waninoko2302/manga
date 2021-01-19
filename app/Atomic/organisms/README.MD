@@ -1,0 +1,1 @@
+- organisms (sinh vật): tập hợp nhiều molecules hoặc atoms để tạo nên giao diện chi tiết hơn. Không chứa style margin và position.

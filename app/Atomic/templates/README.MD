@@ -1,0 +1,1 @@
+- templates (nguyên mẫu): cài đặt bố cục, khung lưới cơ bản của 1 trang, nhưng chưa có style, color hay component được render. Có thể style margin và khoảng cách các bố cục.

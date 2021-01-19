@@ -1,0 +1,1 @@
+- molecules (phân tử): tập hợp nhiều atoms tạo thành components lớn hơn. Không chứa style margin và position.
